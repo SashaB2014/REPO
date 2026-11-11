@@ -5,4 +5,4 @@
 ```javascript
 let i = 10
 alert("Привіт")
-
+console.log(i)
